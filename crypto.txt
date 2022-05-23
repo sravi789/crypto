@@ -3,8 +3,3 @@
 3 Tether
 4 U.S. Dollar coin
 5 Binance coin
-6 XRP
-7 Binance USD
-8 Cardano
-9 Solana
-10 Dogecoin 
