@@ -1,0 +1,5 @@
+1 Avalanche
+2 Wrapped Bitcoin
+3 Dai
+4 Uniswap
+5 PancakeSwap
