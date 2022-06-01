@@ -1,0 +1,5 @@
+1 Bitcoin BTC
+2 Ethereum ETH
+3 Tether USDT
+4 USD coin
+5 BNB 
