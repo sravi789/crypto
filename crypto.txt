@@ -1,5 +1,4 @@
-1 Bitcoin
-2 Ethereum
-3 Tether
-4 U.S. Dollar coin
-5 Binance coin
+1 Ethuereum
+2 Bitcoin
+3 Litecoin
+
