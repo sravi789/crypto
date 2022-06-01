@@ -1,5 +1,5 @@
-1 Bitcoin
-2 Ethereum
-3 Tether
-4 U.S. Dollar coin
-5 Binance coin
+1 Stellar
+2 Terra
+3 Dash
+4 EOS
+5 Solanaa
