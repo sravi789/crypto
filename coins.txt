@@ -3,3 +3,8 @@
 3 Tether USDT
 4 USD coin
 5 BNB 
+6 MIM
+7 Frax
+8 TrueUSD
+9 Neutrino
+10 Pax dollar
