@@ -1,4 +1,5 @@
-1 Ethuereum
-2 Bitcoin
-3 Litecoin
-
+1 Stellar
+2 Cardano
+3 Dash
+4 EOS
+5 Solanaa
